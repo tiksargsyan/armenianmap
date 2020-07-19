@@ -1,0 +1,97 @@
+<div class="container-fluid">
+  <div class="container">
+    <h1 class="text-center"><b>Հայաստանի Հանրապետություն</b></h1>
+    <div class="row">
+      <div class="col-sm-12 col-md-2"></div>
+      <div class="col-sm-12 col-md-8">
+        <mat-grid-list cols="1" rowHeight="10:1">
+          <mat-grid-tile>
+            <mat-form-field>
+              <mat-label>Ընտրեք ՀՀ մարզերը</mat-label>
+              <mat-select [(ngModel)]="regionId" (ngModelChange)="selectRegion()" multiple>
+                <mat-option *ngFor="let region of regions" [value]="region.id">{{region.province}}</mat-option>
+              </mat-select>
+            </mat-form-field>
+          </mat-grid-tile>
+        </mat-grid-list>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-2"></div>
+      <div class="col-sm-12 col-md-4">
+        <mat-grid-list cols="1" rowHeight="10:2">
+          <mat-grid-tile>
+            <mat-form-field>
+              <mat-label>Ընտրեք Երևանի համայնքները</mat-label>
+              <mat-select [(ngModel)]="districtsId" (ngModelChange)="selectDistricts()" multiple>
+                <mat-option *ngFor="let district of selectedDistricts"
+                            [value]="district.id">{{district.name}}</mat-option>
+              </mat-select>
+            </mat-form-field>
+          </mat-grid-tile>
+        </mat-grid-list>
+      </div>
+      <div class="col-sm-12 col-md-4">
+        <mat-grid-list cols="1" rowHeight="10:2">
+          <mat-grid-tile>
+            <mat-form-field>
+              <mat-label>Ընտրեք մարզի քաղաքները</mat-label>
+              <mat-select [(ngModel)]="cityId" (ngModelChange)="selectCity()" multiple>
+                <mat-option *ngFor="let city of selectedCity" [value]="city.id">{{city.name}}</mat-option>
+              </mat-select>
+            </mat-form-field>
+          </mat-grid-tile>
+        </mat-grid-list>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12 col-md-2"></div>
+      <div class="col-sm-12 col-md-4">
+        <mat-grid-list cols="1" rowHeight="10:2">
+          <mat-grid-tile>
+            <mat-form-field>
+              <mat-label>Ընտրեք Երևանի փողոցները</mat-label>
+              <mat-select [(ngModel)]="streetId" (ngModelChange)="selectStreets()" multiple>
+                <mat-option *ngFor="let street of selectedStreet" [value]="street.id">{{street.name}}</mat-option>
+              </mat-select>
+            </mat-form-field>
+            <button mat-icon-button title="Add New Village"
+                    (click)="addNewStreet()">
+              <mat-icon>library_add</mat-icon>
+            </button>
+          </mat-grid-tile>
+        </mat-grid-list>
+      </div>
+      <div class="col-sm-12 col-md-4 mb-2">
+        <mat-grid-list cols="1" rowHeight="10:2">
+          <mat-grid-tile>
+            <mat-form-field>
+              <mat-label>Ընտրեք մարզի գյուղերը</mat-label>
+              <mat-select [(ngModel)]="villageId" (ngModelChange)="selectVillage()" multiple>
+                <mat-option *ngFor="let village of selectedVillage" [value]="village.id">{{village.name}}</mat-option>
+              </mat-select>
+            </mat-form-field>
+            <button mat-icon-button title="Add New Village"
+                    (click)="addNewVillage()">
+              <mat-icon>library_add</mat-icon>
+            </button>
+          </mat-grid-tile>
+        </mat-grid-list>
+      </div>
+    </div>
+    <google-map [center]="defaultMarker" width="100%" [zoom]="zoom" >
+      <map-marker *ngFor="let coordinates of mapMarkers" [position]="coordinates">
+      </map-marker>
+    </google-map>
+    <div class="row footer">
+      <div class="col-sm-12 col-md-6 d-flex justify-content-center align-items-center">
+        <p>Armenian Google Map © 2020</p>
+      </div>
+      <div class="col-sm-12 col-md-6 d-flex justify-content-center align-items-center">
+        <a href="#">GitHub</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+

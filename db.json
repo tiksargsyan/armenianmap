@@ -1,0 +1,2575 @@
+{
+  "regions": [
+    {
+      "id": 1,
+      "province": "Երևան",
+      "coordinates": {
+        "lat": 40.17724,
+        "lng": 44.51267
+      }
+    },
+    {
+      "id": 2,
+      "province": "Արագածոտն",
+      "coordinates": {
+        "lat": 40.2991,
+        "lng": 44.36204
+      }
+    },
+    {
+      "id": 3,
+      "province": "Արարատ",
+      "coordinates": {
+        "lat": 39.96144,
+        "lng": 44.54447
+      }
+    },
+    {
+      "id": 4,
+      "province": "Արմավիր",
+      "coordinates": {
+        "lat": 40.15446,
+        "lng": 44.03815
+      }
+    },
+    {
+      "id": 5,
+      "province": "Գեղարքունիք",
+      "coordinates": {
+        "lat": 40.35133,
+        "lng": 45.12727
+      }
+    },
+    {
+      "id": 6,
+      "province": "Լոռի",
+      "coordinates": {
+        "lat": 40.8074,
+        "lng": 44.49703
+      }
+    },
+    {
+      "id": 7,
+      "province": "Կոտայք",
+      "coordinates": {
+        "lat": 40.53536,
+        "lng": 44.76957
+      }
+    },
+    {
+      "id": 8,
+      "province": "Շիրակ",
+      "coordinates": {
+        "lat": 40.7929,
+        "lng": 43.8465
+      }
+    },
+    {
+      "id": 9,
+      "province": "Սյունիք",
+      "coordinates": {
+        "lat": 39.20772,
+        "lng": 46.4068
+      }
+    },
+    {
+      "id": 10,
+      "province": "Վայոց ձոր",
+      "coordinates": {
+        "lat": 39.76327,
+        "lng": 45.33079
+      }
+    },
+    {
+      "id": 11,
+      "province": "Տավուշ",
+      "coordinates": {
+        "lat": 40.87914,
+        "lng": 45.14706
+      }
+    }
+  ],
+  "districts": [
+    {
+      "id": 1,
+      "regionId": 1,
+      "name": "Աջափնյակ",
+      "coordinates": {
+        "lat": 40.18944,
+        "lng": 44.45993
+      }
+    },
+    {
+      "id": 2,
+      "regionId": 1,
+      "name": "Ավան",
+      "coordinates": {
+        "lat": 40.21433,
+        "lng": 44.56466
+      }
+    },
+    {
+      "id": 3,
+      "regionId": 1,
+      "name": "Արաբկիր",
+      "coordinates": {
+        "lat": 40.21622,
+        "lng": 44.5131
+      }
+    },
+    {
+      "id": 4,
+      "regionId": 1,
+      "name": "Դավթաշեն",
+      "coordinates": {
+        "lat": 40.21823,
+        "lng": 44.49329
+      }
+    },
+    {
+      "id": 5,
+      "regionId": 1,
+      "name": "Էրեբունի",
+      "coordinates": {
+        "lat": 40.1410651,
+        "lng": 44.5334315
+      }
+    },
+    {
+      "id": 6,
+      "regionId": 1,
+      "name": "Կենտրոն",
+      "coordinates": {
+        "lat": 40.17724,
+        "lng": 44.51267
+      }
+    },
+    {
+      "id": 7,
+      "regionId": 1,
+      "name": "Մալաթիա-եբաստիա",
+      "coordinates": {
+        "lat": 40.1797179,
+        "lng": 44.4442373
+      }
+    },
+    {
+      "id": 8,
+      "regionId": 1,
+      "name": "Նոր Նորք",
+      "coordinates": {
+        "lat": 40.1899228,
+        "lng": 44.582483
+      }
+    },
+    {
+      "id": 9,
+      "regionId": 1,
+      "name": "Նորք-Մարաշ",
+      "coordinates": {
+        "lat": 40.18767,
+        "lng": 44.56144
+      }
+    },
+    {
+      "id": 10,
+      "regionId": 1,
+      "name": "Նուբարաշեն",
+      "coordinates": {
+        "lat": 40.08995,
+        "lng": 44.5506
+      }
+    },
+    {
+      "id": 11,
+      "regionId": 1,
+      "name": "Շենգավիթ",
+      "coordinates": {
+        "lat": 40.1420612218,
+        "lng": 44.4865933628
+      }
+    },
+    {
+      "id": 12,
+      "regionId": 1,
+      "name": "Քանաքեռ-Զեյթուն",
+      "coordinates": {
+        "lat": 40.21664,
+        "lng": 44.5335
+      }
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "regionId": 2,
+      "name": "Աշտարակ",
+      "coordinates": {
+        "lat": 40.2991,
+        "lng": 44.36204
+      }
+    },
+    {
+      "id": 2,
+      "regionId": 2,
+      "name": "Ապարան",
+      "coordinates": {
+        "lat": 40.59323,
+        "lng": 44.3589
+      }
+    },
+    {
+      "id": 3,
+      "regionId": 2,
+      "name": "Թալին",
+      "coordinates": {
+        "lat": 40.38428,
+        "lng": 43.87387
+      }
+    },
+    {
+      "id": 4,
+      "regionId": 3,
+      "name": "Արտաշատ",
+      "coordinates": {
+        "lat": 39.96144,
+        "lng": 44.54447
+      }
+    },
+    {
+      "id": 5,
+      "regionId": 3,
+      "name": "Արարատ",
+      "coordinates": {
+        "lat": 39.83166,
+        "lng": 44.70489
+      }
+    },
+    {
+      "id": 6,
+      "regionId": 3,
+      "name": "Մասիս",
+      "coordinates": {
+        "lat": 40.06762,
+        "lng": 44.43591
+      }
+    },
+    {
+      "id": 7,
+      "regionId": 3,
+      "name": "Վեդի",
+      "coordinates": {
+        "lat": 39.91421,
+        "lng": 44.72217
+      }
+    },
+    {
+      "id": 8,
+      "regionId": 4,
+      "name": "Արմավիր",
+      "coordinates": {
+        "lat": 40.15446,
+        "lng": 44.03815
+      }
+    },
+    {
+      "id": 9,
+      "regionId": 4,
+      "name": "Վաղարշապատը",
+      "coordinates": {
+        "lat": 40.16557,
+        "lng": 44.29462
+      }
+    },
+    {
+      "id": 10,
+      "regionId": 4,
+      "name": "Մեծամորը",
+      "coordinates": {
+        "lat": 40.07302,
+        "lng": 44.28962
+      }
+    },
+    {
+      "id": 11,
+      "regionId": 5,
+      "name": "Գավառ",
+      "coordinates": {
+        "lat": 40.35133,
+        "lng": 45.12727
+      }
+    },
+    {
+      "id": 12,
+      "regionId": 5,
+      "name": "Սևան",
+      "coordinates": {
+        "lat": 40.54847,
+        "lng": 44.96181
+      }
+    },
+    {
+      "id": 13,
+      "regionId": 5,
+      "name": "Ճամբարակ",
+      "coordinates": {
+        "lat": 40.5991,
+        "lng": 45.35294
+      }
+    },
+    {
+      "id": 14,
+      "regionId": 5,
+      "name": "Վարդենիս",
+      "coordinates": {
+        "lat": 40.18773,
+        "lng": 45.74105
+      }
+    },
+    {
+      "id": 15,
+      "regionId": 5,
+      "name": "Մարտունի",
+      "coordinates": {
+        "lat": 40.13642,
+        "lng": 45.30233
+      }
+    },
+    {
+      "id": 16,
+      "regionId": 6,
+      "name": "Վանաձոր",
+      "coordinates": {
+        "lat": 40.8074,
+        "lng": 44.49703
+      }
+    },
+    {
+      "id": 17,
+      "regionId": 6,
+      "name": "Ալավերդի",
+      "coordinates": {
+        "lat": 41.09115,
+        "lng": 44.65904
+      }
+    },
+    {
+      "id": 18,
+      "regionId": 6,
+      "name": "Ախթալա",
+      "coordinates": {
+        "lat": 41.15035,
+        "lng": 44.77063
+      }
+    },
+    {
+      "id": 19,
+      "regionId": 6,
+      "name": "Թումանյան",
+      "coordinates": {
+        "lat": 41.00093,
+        "lng": 44.65445
+      }
+    },
+    {
+      "id": 20,
+      "regionId": 6,
+      "name": "Շամլուղ",
+      "coordinates": {
+        "lat": 41.16605,
+        "lng": 44.71718
+      }
+    },
+    {
+      "id": 21,
+      "regionId": 6,
+      "name": "Սպիտակ",
+      "coordinates": {
+        "lat": 40.83183,
+        "lng": 44.27979
+      }
+    },
+    {
+      "id": 22,
+      "regionId": 6,
+      "name": "Ստեփանավան",
+      "coordinates": {
+        "lat": 41.00598,
+        "lng": 44.38326
+      }
+    },
+    {
+      "id": 23,
+      "regionId": 6,
+      "name": "Տաշիր",
+      "coordinates": {
+        "lat": 41.11596,
+        "lng": 44.28578
+      }
+    },
+    {
+      "id": 24,
+      "regionId": 7,
+      "name": "Հրազդան",
+      "coordinates": {
+        "lat": 40.53536,
+        "lng": 44.76957
+      }
+    },
+    {
+      "id": 25,
+      "regionId": 7,
+      "name": "Աբովյան",
+      "coordinates": {
+        "lat": 40.27153,
+        "lng": 44.63338
+      }
+    },
+    {
+      "id": 26,
+      "regionId": 7,
+      "name": "Բյուրեղավան",
+      "coordinates": {
+        "lat": 40.31371,
+        "lng": 44.59701
+      }
+    },
+    {
+      "id": 27,
+      "regionId": 7,
+      "name": "Եղվարդ",
+      "coordinates": {
+        "lat": 40.32345,
+        "lng": 44.48699
+      }
+    },
+    {
+      "id": 28,
+      "regionId": 7,
+      "name": "Նոր Հաճն",
+      "coordinates": {
+        "lat": 40.30073,
+        "lng": 44.58143
+      }
+    },
+    {
+      "id": 29,
+      "regionId": 7,
+      "name": "Չարենցավան",
+      "coordinates": {
+        "lat": 40.4018,
+        "lng": 44.6434
+      }
+    },
+    {
+      "id": 30,
+      "regionId": 7,
+      "name": "Ծաղկաձոր",
+      "coordinates": {
+        "lat": 40.53174,
+        "lng": 44.71598
+      }
+    },
+    {
+      "id": 31,
+      "regionId": 8,
+      "name": "Գյումրի",
+      "coordinates": {
+        "lat": 40.7929,
+        "lng": 43.8465
+      }
+    },
+    {
+      "id": 32,
+      "regionId": 8,
+      "name": "Արթիկ",
+      "coordinates": {
+        "lat": 40.6199,
+        "lng": 43.97082
+      }
+    },
+    {
+      "id": 33,
+      "regionId": 8,
+      "name": "Մարալիկ",
+      "coordinates": {
+        "lat": 40.58712,
+        "lng": 43.86777
+      }
+    },
+    {
+      "id": 34,
+      "regionId": 9,
+      "name": "Կապան",
+      "coordinates": {
+        "lat": 39.20772,
+        "lng": 46.4068
+      }
+    },
+    {
+      "id": 35,
+      "regionId": 9,
+      "name": "Գորիս",
+      "coordinates": {
+        "lat": 39.50899,
+        "lng": 46.34389
+      }
+    },
+    {
+      "id": 36,
+      "regionId": 9,
+      "name": "Դաստակերտ",
+      "coordinates": {
+        "lat": 39.37869,
+        "lng": 46.02725
+      }
+    },
+    {
+      "id": 37,
+      "regionId": 9,
+      "name": "Սիսիան",
+      "coordinates": {
+        "lat": 39.52416,
+        "lng": 46.02717
+      }
+    },
+    {
+      "id": 38,
+      "regionId": 9,
+      "name": "Քաջարան",
+      "coordinates": {
+        "lat": 39.14435,
+        "lng": 46.14153
+      }
+    },
+    {
+      "id": 39,
+      "regionId": 9,
+      "name": "Ագարակ",
+      "coordinates": {
+        "lat": 38.86584,
+        "lng": 46.19528
+      }
+    },
+    {
+      "id": 40,
+      "regionId": 9,
+      "name": "Մեղրի",
+      "coordinates": {
+        "lat": 38.9017,
+        "lng": 46.24673
+      }
+    },
+    {
+      "id": 41,
+      "regionId": 10,
+      "name": "Եղեգնաձոր",
+      "coordinates": {
+        "lat": 39.76327,
+        "lng": 45.33079
+      }
+    },
+    {
+      "id": 42,
+      "regionId": 10,
+      "name": "Վայք",
+      "coordinates": {
+        "lat": 39.69414,
+        "lng": 45.45928
+      }
+    },
+    {
+      "id": 43,
+      "regionId": 10,
+      "name": "Ջերմուկ",
+      "coordinates": {
+        "lat": 39.81723,
+        "lng": 45.67273
+      }
+    },
+    {
+      "id": 44,
+      "regionId": 11,
+      "name": "Իջևան",
+      "coordinates": {
+        "lat": 40.87914,
+        "lng": 45.14706
+      }
+    },
+    {
+      "id": 45,
+      "regionId": 11,
+      "name": "Դիլիջան",
+      "coordinates": {
+        "lat": 40.74055,
+        "lng": 44.8626
+      }
+    },
+    {
+      "id": 46,
+      "regionId": 11,
+      "name": "Նոյեմբերյան",
+      "coordinates": {
+        "lat": 41.17181,
+        "lng": 44.99466
+      }
+    },
+    {
+      "id": 47,
+      "regionId": 11,
+      "name": "Այրում",
+      "coordinates": {
+        "lat": 41.19027,
+        "lng": 44.9039
+      }
+    },
+    {
+      "id": 48,
+      "regionId": 11,
+      "name": "Բերդ",
+      "coordinates": {
+        "lat": 40.88378,
+        "lng": 45.39235
+      }
+    }
+  ],
+  "villages": [
+    {
+      "id": 1,
+      "regionId": 2,
+      "name": "Ագարակ",
+      "coordinates": {
+        "lat": 40.30133,
+        "lng": 44.28319
+      }
+    },
+    {
+      "id": 2,
+      "regionId": 2,
+      "name": "Օհանավան",
+      "coordinates": {
+        "lat": 40.34863,
+        "lng": 44.38718
+      }
+    },
+    {
+      "id": 3,
+      "regionId": 2,
+      "name": "Օշական",
+      "coordinates": {
+        "lat": 40.26543,
+        "lng": 44.30992
+      }
+    },
+    {
+      "id": 4,
+      "regionId": 2,
+      "name": "Փարպի",
+      "coordinates": {
+        "lat": 40.3222,
+        "lng": 44.31317
+      }
+    },
+    {
+      "id": 5,
+      "regionId": 2,
+      "name": "Բյուրական",
+      "coordinates": {
+        "lat": 40.33739,
+        "lng": 44.27213
+      }
+    },
+    {
+      "id": 6,
+      "regionId": 2,
+      "name": "Ափնագյուղ",
+      "coordinates": {
+        "lat": 40.44185,
+        "lng": 44.39375
+      }
+    },
+    {
+      "id": 7,
+      "regionId": 2,
+      "name": "Արագած",
+      "coordinates": {
+        "lat": 40.48991,
+        "lng": 44.34992
+      }
+    },
+    {
+      "id": 8,
+      "regionId": 2,
+      "name": "Քուչակ",
+      "coordinates": {
+        "lat": 40.51693,
+        "lng": 44.39318
+      }
+    },
+    {
+      "id": 9,
+      "regionId": 2,
+      "name": "Հարթավան",
+      "coordinates": {
+        "lat": 40.4756,
+        "lng": 44.40116
+      }
+    },
+    {
+      "id": 10,
+      "regionId": 2,
+      "name": "Շենավան",
+      "coordinates": {
+        "lat": 40.48286,
+        "lng": 44.38528
+      }
+    },
+    {
+      "id": 11,
+      "regionId": 2,
+      "name": "Ներքին Սասնաշեն",
+      "coordinates": {
+        "lat": 40.35522,
+        "lng": 43.99159
+      }
+    },
+    {
+      "id": 12,
+      "regionId": 2,
+      "name": "Կարմրաշեն",
+      "coordinates": {
+        "lat": 40.43094,
+        "lng": 43.94497
+      }
+    },
+    {
+      "id": 13,
+      "regionId": 2,
+      "name": "Կաքավաձոր",
+      "coordinates": {
+        "lat": 40.35074,
+        "lng": 44.05192
+      }
+    },
+    {
+      "id": 14,
+      "regionId": 2,
+      "name": "Վերին Սասունաշեն",
+      "coordinates": {
+        "lat": 40.3659,
+        "lng": 43.98532
+      }
+    },
+    {
+      "id": 15,
+      "regionId": 2,
+      "name": "Վերին Բազմաբերդ",
+      "coordinates": {
+        "lat": 40.3646,
+        "lng": 44.02019
+      }
+    },
+    {
+      "id": 16,
+      "regionId": 2,
+      "name": "Ոսկեթաս",
+      "coordinates": {
+        "lat": 40.44523,
+        "lng": 43.94228
+      }
+    },
+    {
+      "id": 17,
+      "regionId": 3,
+      "name": "Շահումյան",
+      "coordinates": {
+        "lat": 39.93965,
+        "lng": 44.5708
+      }
+    },
+    {
+      "id": 18,
+      "regionId": 3,
+      "name": "Ոստան",
+      "coordinates": {
+        "lat": 39.96525,
+        "lng": 44.55871
+      }
+    },
+    {
+      "id": 19,
+      "regionId": 3,
+      "name": "Մրգավան",
+      "coordinates": {
+        "lat": 39.97256,
+        "lng": 44.53527
+      }
+    },
+    {
+      "id": 20,
+      "regionId": 3,
+      "name": "Բերքանուշ",
+      "coordinates": {
+        "lat": 39.97485,
+        "lng": 44.52259
+      }
+    },
+    {
+      "id": 21,
+      "regionId": 3,
+      "name": "Մասիս",
+      "coordinates": {
+        "lat": 39.9975,
+        "lng": 44.49468
+      }
+    },
+    {
+      "id": 22,
+      "regionId": 3,
+      "name": "Ավշար",
+      "coordinates": {
+        "lat": 39.85383,
+        "lng": 44.68058
+      }
+    },
+    {
+      "id": 23,
+      "regionId": 3,
+      "name": "Այգավան",
+      "coordinates": {
+        "lat": 39.87366,
+        "lng": 44.66885
+      }
+    },
+    {
+      "id": 24,
+      "regionId": 3,
+      "name": "Նոյակերտ",
+      "coordinates": {
+        "lat": 39.83193,
+        "lng": 44.66352
+      }
+    },
+    {
+      "id": 25,
+      "regionId": 3,
+      "name": "Արարատ",
+      "coordinates": {
+        "lat": 39.83095,
+        "lng": 44.70431
+      }
+    },
+    {
+      "id": 26,
+      "regionId": 3,
+      "name": "Վանաշեն",
+      "coordinates": {
+        "lat": 39.89745,
+        "lng": 44.68677
+      }
+    },
+    {
+      "id": 27,
+      "regionId": 3,
+      "name": "Սայաթ Նովա",
+      "coordinates": {
+        "lat": 40.07339,
+        "lng": 44.40027
+      }
+    },
+    {
+      "id": 28,
+      "regionId": 3,
+      "name": "Զորակ",
+      "coordinates": {
+        "lat": 40.08735,
+        "lng": 44.39192
+      }
+    },
+    {
+      "id": 29,
+      "regionId": 3,
+      "name": "Նիզամի",
+      "coordinates": {
+        "lat": 40.09123,
+        "lng": 44.40377
+      }
+    },
+    {
+      "id": 30,
+      "regionId": 3,
+      "name": "Դաշտավան",
+      "coordinates": {
+        "lat": 40.10022,
+        "lng": 44.39129
+      }
+    },
+    {
+      "id": 31,
+      "regionId": 3,
+      "name": "Դարակերտ",
+      "coordinates": {
+        "lat": 40.10668,
+        "lng": 44.41138
+      }
+    },
+    {
+      "id": 32,
+      "regionId": 4,
+      "name": "Մրգաշատ",
+      "coordinates": {
+        "lat": 40.12417,
+        "lng": 44.06722
+      }
+    },
+    {
+      "id": 33,
+      "regionId": 4,
+      "name": "Սարդարապատ",
+      "coordinates": {
+        "lat": 40.13123,
+        "lng": 44.00974
+      }
+    },
+    {
+      "id": 34,
+      "regionId": 4,
+      "name": "Քարակերտ",
+      "coordinates": {
+        "lat": 40.2446,
+        "lng": 43.81908
+      }
+    },
+    {
+      "id": 35,
+      "regionId": 4,
+      "name": "Դալարիկ",
+      "coordinates": {
+        "lat": 40.22727,
+        "lng": 43.87177
+      }
+    },
+    {
+      "id": 36,
+      "regionId": 4,
+      "name": "Մյասնիկյան",
+      "coordinates": {
+        "lat": 40.18149,
+        "lng": 43.91469
+      }
+    },
+    {
+      "id": 37,
+      "regionId": 4,
+      "name": "Ծիածան",
+      "coordinates": {
+        "lat": 40.18523,
+        "lng": 44.26682
+      }
+    },
+    {
+      "id": 38,
+      "regionId": 4,
+      "name": "Հովտամեջ",
+      "coordinates": {
+        "lat": 40.18254,
+        "lng": 44.25382
+      }
+    },
+    {
+      "id": 39,
+      "regionId": 4,
+      "name": "Գեղակերտ",
+      "coordinates": {
+        "lat": 40.19022,
+        "lng": 44.24847
+      }
+    },
+    {
+      "id": 40,
+      "regionId": 4,
+      "name": "Հայթաղ",
+      "coordinates": {
+        "lat": 40.17845,
+        "lng": 44.2278
+      }
+    },
+    {
+      "id": 41,
+      "regionId": 4,
+      "name": "Արշալույս",
+      "coordinates": {
+        "lat": 40.16674,
+        "lng": 44.21236
+      }
+    },
+    {
+      "id": 42,
+      "regionId": 5,
+      "name": "Գանձակ",
+      "coordinates": {
+        "lat": 40.32492,
+        "lng": 45.10994
+      }
+    },
+    {
+      "id": 43,
+      "regionId": 5,
+      "name": "Կարմիրգյուղ",
+      "coordinates": {
+        "lat": 40.32744,
+        "lng": 45.14659
+      }
+    },
+    {
+      "id": 44,
+      "regionId": 5,
+      "name": "Նորատուս",
+      "coordinates": {
+        "lat": 40.3765,
+        "lng": 45.17296
+      }
+    },
+    {
+      "id": 45,
+      "regionId": 5,
+      "name": "Սարուխան",
+      "coordinates": {
+        "lat": 40.2939,
+        "lng": 45.13601
+      }
+    },
+    {
+      "id": 46,
+      "regionId": 5,
+      "name": "Լանջաղբյուր",
+      "coordinates": {
+        "lat": 40.27068,
+        "lng": 45.13594
+      }
+    },
+    {
+      "id": 47,
+      "regionId": 5,
+      "name": "Վարսեր",
+      "coordinates": {
+        "lat": 40.55296,
+        "lng": 44.91054
+      }
+    },
+    {
+      "id": 48,
+      "regionId": 5,
+      "name": "Լճաշեն",
+      "coordinates": {
+        "lat": 40.51661,
+        "lng": 44.93691
+      }
+    },
+    {
+      "id": 49,
+      "regionId": 5,
+      "name": "Գեղամավան",
+      "coordinates": {
+        "lat": 40.56594,
+        "lng": 44.89472
+      }
+    },
+    {
+      "id": 50,
+      "regionId": 5,
+      "name": "Ծաղկունք",
+      "coordinates": {
+        "lat": 40.17496,
+        "lng": 44.2696
+      }
+    },
+    {
+      "id": 51,
+      "regionId": 5,
+      "name": "Գագարին",
+      "coordinates": {
+        "lat": 40.54251,
+        "lng": 44.86848
+      }
+    },
+    {
+      "id": 52,
+      "regionId": 5,
+      "name": "Վահան",
+      "coordinates": {
+        "lat": 40.57547,
+        "lng": 45.40013
+      }
+    },
+    {
+      "id": 53,
+      "regionId": 5,
+      "name": "Թթուջուր",
+      "coordinates": {
+        "lat": 40.64745,
+        "lng": 45.31114
+      }
+    },
+    {
+      "id": 54,
+      "regionId": 5,
+      "name": "Դրախտիկ",
+      "coordinates": {
+        "lat": 40.56308,
+        "lng": 45.23686
+      }
+    },
+    {
+      "id": 55,
+      "regionId": 5,
+      "name": "Շորժա",
+      "coordinates": {
+        "lat": 40.50191,
+        "lng": 45.27332
+      }
+    },
+    {
+      "id": 56,
+      "regionId": 5,
+      "name": "Գետիկ",
+      "coordinates": {
+        "lat": 40.65931,
+        "lng": 45.27166
+      }
+    },
+    {
+      "id": 57,
+      "regionId": 5,
+      "name": "Ակունք",
+      "coordinates": {
+        "lat": 40.15647,
+        "lng": 45.72389
+      }
+    },
+    {
+      "id": 58,
+      "regionId": 5,
+      "name": "Խաչաղբյուր",
+      "coordinates": {
+        "lat": 40.16755,
+        "lng": 45.69376
+      }
+    },
+    {
+      "id": 59,
+      "regionId": 5,
+      "name": "Լուսակունք",
+      "coordinates": {
+        "lat": 40.17784,
+        "lng": 45.69393
+      }
+    },
+    {
+      "id": 60,
+      "regionId": 5,
+      "name": "Մեծ Մասրիկ",
+      "coordinates": {
+        "lat": 40.22101,
+        "lng": 45.7625
+      }
+    },
+    {
+      "id": 61,
+      "regionId": 5,
+      "name": "Վանևան",
+      "coordinates": {
+        "lat": 40.19085,
+        "lng": 45.67587
+      }
+    },
+    {
+      "id": 62,
+      "regionId": 5,
+      "name": "Վաղաշեն",
+      "coordinates": {
+        "lat": 40.13375,
+        "lng": 45.32838
+      }
+    },
+    {
+      "id": 63,
+      "regionId": 5,
+      "name": "Ներքին Գետաշեն",
+      "coordinates": {
+        "lat": 40.14423,
+        "lng": 45.2711
+      }
+    },
+    {
+      "id": 64,
+      "regionId": 5,
+      "name": "Վերին Գետաշեն",
+      "coordinates": {
+        "lat": 40.13145,
+        "lng": 45.25018
+      }
+    },
+    {
+      "id": 65,
+      "regionId": 5,
+      "name": "Գեղհովիտ",
+      "coordinates": {
+        "lat": 40.10054,
+        "lng": 45.28125
+      }
+    },
+    {
+      "id": 66,
+      "regionId": 5,
+      "name": "Լիճք",
+      "coordinates": {
+        "lat": 40.15974,
+        "lng": 45.23991
+      }
+    },
+    {
+      "id": 67,
+      "regionId": 6,
+      "name": "Քարաբերդ",
+      "coordinates": {
+        "lat": 40.54243,
+        "lng": 43.8321
+      }
+    },
+    {
+      "id": 68,
+      "regionId": 6,
+      "name": "Փամբակ",
+      "coordinates": {
+        "lat": 40.83109,
+        "lng": 44.55517
+      }
+    },
+    {
+      "id": 69,
+      "regionId": 6,
+      "name": "Գուգարք",
+      "coordinates": {
+        "lat": 40.8022,
+        "lng": 44.53958
+      }
+    },
+    {
+      "id": 70,
+      "regionId": 6,
+      "name": "Շահումյան",
+      "coordinates": {
+        "lat": 40.77463,
+        "lng": 44.54707
+      }
+    },
+    {
+      "id": 71,
+      "regionId": 6,
+      "name": "Դարպաս",
+      "coordinates": {
+        "lat": 40.83815,
+        "lng": 44.42269
+      }
+    },
+    {
+      "id": 72,
+      "regionId": 6,
+      "name": "Աքորի",
+      "coordinates": {
+        "lat": 41.09169,
+        "lng": 44.61645
+      }
+    },
+    {
+      "id": 73,
+      "regionId": 6,
+      "name": "Հագվի",
+      "coordinates": {
+        "lat": 41.07573,
+        "lng": 44.5873
+      }
+    },
+    {
+      "id": 74,
+      "regionId": 6,
+      "name": "Օձուն",
+      "coordinates": {
+        "lat": 41.04947,
+        "lng": 44.61149
+      }
+    },
+    {
+      "id": 75,
+      "regionId": 6,
+      "name": "Ամոջ",
+      "coordinates": {
+        "lat": 41.05862,
+        "lng": 44.59544
+      }
+    },
+    {
+      "id": 76,
+      "regionId": 6,
+      "name": "Հաղպատ",
+      "coordinates": {
+        "lat": 41.09471,
+        "lng": 44.71232
+      }
+    },
+    {
+      "id": 77,
+      "regionId": 6,
+      "name": "Նեղոց",
+      "coordinates": {
+        "lat": 41.13713,
+        "lng": 44.76936
+      }
+    },
+    {
+      "id": 78,
+      "regionId": 6,
+      "name": "Շամլուղ",
+      "coordinates": {
+        "lat": 41.16605,
+        "lng": 44.71718
+      }
+    },
+    {
+      "id": 79,
+      "regionId": 6,
+      "name": "Մեծ Այրում",
+      "coordinates": {
+        "lat": 41.16633,
+        "lng": 44.82124
+      }
+    },
+    {
+      "id": 80,
+      "regionId": 6,
+      "name": "Ճոճկան",
+      "coordinates": {
+        "lat": 41.17694,
+        "lng": 44.83454
+      }
+    },
+    {
+      "id": 81,
+      "regionId": 6,
+      "name": "Փոքր Այրում",
+      "coordinates": {
+        "lat": 41.15438,
+        "lng": 44.79728
+      }
+    },
+    {
+      "id": 82,
+      "regionId": 6,
+      "name": "Արևաշող",
+      "coordinates": {
+        "lat": 40.85275,
+        "lng": 44.27415
+      }
+    },
+    {
+      "id": 83,
+      "regionId": 6,
+      "name": "Սարահարթ",
+      "coordinates": {
+        "lat": 40.87056,
+        "lng": 44.2129
+      }
+    },
+    {
+      "id": 84,
+      "regionId": 6,
+      "name": "Գոգարան",
+      "coordinates": {
+        "lat": 40.89405,
+        "lng": 44.19922
+      }
+    },
+    {
+      "id": 85,
+      "regionId": 6,
+      "name": "Շիրակամուտ",
+      "coordinates": {
+        "lat": 40.85168,
+        "lng": 44.15761
+      }
+    },
+    {
+      "id": 86,
+      "regionId": 6,
+      "name": "Գեղասար",
+      "coordinates": {
+        "lat": 40.84667,
+        "lng": 44.18154
+      }
+    },
+    {
+      "id": 87,
+      "regionId": 6,
+      "name": "Լոռի Բերդ",
+      "coordinates": {
+        "lat": 41.01409,
+        "lng": 44.41239
+      }
+    },
+    {
+      "id": 88,
+      "regionId": 6,
+      "name": "ՈՒրասար",
+      "coordinates": {
+        "lat": 41.01579,
+        "lng": 44.29006
+      }
+    },
+    {
+      "id": 89,
+      "regionId": 6,
+      "name": "Լեջան",
+      "coordinates": {
+        "lat": 41.02745,
+        "lng": 44.44147
+      }
+    },
+    {
+      "id": 90,
+      "regionId": 6,
+      "name": "Ամրակից",
+      "coordinates": {
+        "lat": 40.9958,
+        "lng": 44.4339
+      }
+    },
+    {
+      "id": 91,
+      "regionId": 6,
+      "name": "ՈՒռուտ",
+      "coordinates": {
+        "lat": 41.07193,
+        "lng": 44.39298
+      }
+    },
+    {
+      "id": 92,
+      "regionId": 6,
+      "name": "Սարատովկա",
+      "coordinates": {
+        "lat": 41.08183,
+        "lng": 44.30764
+      }
+    },
+    {
+      "id": 93,
+      "regionId": 6,
+      "name": "Պետրովկա",
+      "coordinates": {
+        "lat": 41.16903,
+        "lng": 44.3116
+      }
+    },
+    {
+      "id": 94,
+      "regionId": 6,
+      "name": "Դաշտադեմ",
+      "coordinates": {
+        "lat": 40.34579,
+        "lng": 43.85826
+      }
+    },
+    {
+      "id": 95,
+      "regionId": 6,
+      "name": "Ձյունաշող",
+      "coordinates": {
+        "lat": 41.1838,
+        "lng": 44.18592
+      }
+    },
+    {
+      "id": 96,
+      "regionId": 6,
+      "name": "Գոգավան",
+      "coordinates": {
+        "lat": 41.20479,
+        "lng": 44.31638
+      }
+    },
+    {
+      "id": 97,
+      "regionId": 7,
+      "name": "Աղավնաձոր",
+      "coordinates": {
+        "lat": 40.57848,
+        "lng": 44.69988
+      }
+    },
+    {
+      "id": 98,
+      "regionId": 7,
+      "name": "Լեռնանիստ",
+      "coordinates": {
+        "lat": 40.46707,
+        "lng": 44.78992
+      }
+    },
+    {
+      "id": 99,
+      "regionId": 7,
+      "name": "Հանքավան",
+      "coordinates": {
+        "lat": 40.63474,
+        "lng": 44.48598
+      }
+    },
+    {
+      "id": 100,
+      "regionId": 7,
+      "name": "Մարմարիկ",
+      "coordinates": {
+        "lat": 40.58099,
+        "lng": 44.67353
+      }
+    },
+    {
+      "id": 101,
+      "regionId": 7,
+      "name": "Մեղրաձոր",
+      "coordinates": {
+        "lat": 40.60689,
+        "lng": 44.64173
+      }
+    },
+    {
+      "id": 102,
+      "regionId": 7,
+      "name": "Ակունք",
+      "coordinates": {
+        "lat": 40.26716,
+        "lng": 44.68505
+      }
+    },
+    {
+      "id": 103,
+      "regionId": 7,
+      "name": "Կաթնաղբյուր",
+      "coordinates": {
+        "lat": 40.256,
+        "lng": 44.67594
+      }
+    },
+    {
+      "id": 104,
+      "regionId": 7,
+      "name": "Արամուս",
+      "coordinates": {
+        "lat": 40.24694,
+        "lng": 44.66555
+      }
+    },
+    {
+      "id": 105,
+      "regionId": 7,
+      "name": "Բալահովիտ",
+      "coordinates": {
+        "lat": 40.2544,
+        "lng": 44.60278
+      }
+    },
+    {
+      "id": 106,
+      "regionId": 7,
+      "name": "Սևաբերդ",
+      "coordinates": {
+        "lat": 40.27443,
+        "lng": 44.8013
+      }
+    },
+    {
+      "id": 107,
+      "regionId": 7,
+      "name": "Ալափարս",
+      "coordinates": {
+        "lat": 40.41989,
+        "lng": 44.63276
+      }
+    },
+    {
+      "id": 108,
+      "regionId": 7,
+      "name": "Արզական",
+      "coordinates": {
+        "lat": 40.45084,
+        "lng": 44.601
+      }
+    },
+    {
+      "id": 109,
+      "regionId": 7,
+      "name": "Բջնի",
+      "coordinates": {
+        "lat": 40.45364,
+        "lng": 44.64823
+      }
+    },
+    {
+      "id": 110,
+      "regionId": 7,
+      "name": "Սոլակ",
+      "coordinates": {
+        "lat": 40.46424,
+        "lng": 44.71116
+      }
+    },
+    {
+      "id": 111,
+      "regionId": 7,
+      "name": "Ֆանտան",
+      "coordinates": {
+        "lat": 40.39421,
+        "lng": 44.6854
+      }
+    },
+    {
+      "id": 112,
+      "regionId": 8,
+      "name": "Ազատան",
+      "coordinates": {
+        "lat": 40.72224,
+        "lng": 43.83259
+      }
+    },
+    {
+      "id": 113,
+      "regionId": 8,
+      "name": "Առափի",
+      "coordinates": {
+        "lat": 40.78329,
+        "lng": 43.80452
+      }
+    },
+    {
+      "id": 114,
+      "regionId": 8,
+      "name": "Հացիկ",
+      "coordinates": {
+        "lat": 40.84583,
+        "lng": 43.87698
+      }
+    },
+    {
+      "id": 115,
+      "regionId": 8,
+      "name": "Վահրամաբերդ",
+      "coordinates": {
+        "lat": 40.86201,
+        "lng": 43.75474
+      }
+    },
+    {
+      "id": 116,
+      "regionId": 8,
+      "name": "Բյուրակն",
+      "coordinates": {
+        "lat": 40.86779,
+        "lng": 43.71706
+      }
+    },
+    {
+      "id": 117,
+      "regionId": 8,
+      "name": "Լեռնակերտ",
+      "coordinates": {
+        "lat": 40.56155,
+        "lng": 43.93929
+      }
+    },
+    {
+      "id": 118,
+      "regionId": 8,
+      "name": "Տուֆաշեն",
+      "coordinates": {
+        "lat": 40.60465,
+        "lng": 43.91473
+      }
+    },
+    {
+      "id": 119,
+      "regionId": 8,
+      "name": "Փանիկ",
+      "coordinates": {
+        "lat": 40.66138,
+        "lng": 43.97135
+      }
+    },
+    {
+      "id": 120,
+      "regionId": 8,
+      "name": "Մեծ Մանթաշ",
+      "coordinates": {
+        "lat": 40.64416,
+        "lng": 44.06139
+      }
+    },
+    {
+      "id": 121,
+      "regionId": 8,
+      "name": "Հայրենյաց",
+      "coordinates": {
+        "lat": 40.63047,
+        "lng": 43.87281
+      }
+    },
+    {
+      "id": 122,
+      "regionId": 8,
+      "name": "Ձորակապ",
+      "coordinates": {
+        "lat": 40.57166,
+        "lng": 43.8787
+      }
+    },
+    {
+      "id": 123,
+      "regionId": 8,
+      "name": "Քարաբերդ",
+      "coordinates": {
+        "lat": 40.54243,
+        "lng": 43.8321
+      }
+    },
+    {
+      "id": 124,
+      "regionId": 8,
+      "name": "Բարձրաշեն",
+      "coordinates": {
+        "lat": 40.08714,
+        "lng": 44.57825
+      }
+    },
+    {
+      "id": 125,
+      "regionId": 8,
+      "name": "Սարակապ",
+      "coordinates": {
+        "lat": 40.55388,
+        "lng": 43.72392
+      }
+    },
+    {
+      "id": 126,
+      "regionId": 8,
+      "name": "Ձիթհանքով",
+      "coordinates": {
+        "lat": 40.50849,
+        "lng": 43.81986
+      }
+    },
+    {
+      "id": 127,
+      "regionId": 9,
+      "name": "Գեղանուշ",
+      "coordinates": {
+        "lat": 39.17644,
+        "lng": 46.41774
+      }
+    },
+    {
+      "id": 128,
+      "regionId": 9,
+      "name": "Սյունիք",
+      "coordinates": {
+        "lat": 39.20213,
+        "lng": 46.4717
+      }
+    },
+    {
+      "id": 129,
+      "regionId": 9,
+      "name": "Անտառաշատ",
+      "coordinates": {
+        "lat": 39.30597,
+        "lng": 46.34009
+      }
+    },
+    {
+      "id": 130,
+      "regionId": 9,
+      "name": "Նորաշենիկ",
+      "coordinates": {
+        "lat": 39.26823,
+        "lng": 46.38876
+      }
+    },
+    {
+      "id": 131,
+      "regionId": 9,
+      "name": "Լեռնաձոր",
+      "coordinates": {
+        "lat": 39.15613,
+        "lng": 46.19281
+      }
+    },
+    {
+      "id": 132,
+      "regionId": 9,
+      "name": "Աղբուլաղ",
+      "coordinates": {
+        "lat": 39.35537,
+        "lng": 46.39024
+      }
+    },
+    {
+      "id": 133,
+      "regionId": 9,
+      "name": "Շինուհայր",
+      "coordinates": {
+        "lat": 39.43516,
+        "lng": 46.31326
+      }
+    },
+    {
+      "id": 134,
+      "regionId": 9,
+      "name": "Բարձրավան",
+      "coordinates": {
+        "lat": 39.39343,
+        "lng": 46.32739
+      }
+    },
+    {
+      "id": 135,
+      "regionId": 9,
+      "name": "Ակներ",
+      "coordinates": {
+        "lat": 39.53612,
+        "lng": 46.306
+      }
+    },
+    {
+      "id": 136,
+      "regionId": 9,
+      "name": "Խնածախ",
+      "coordinates": {
+        "lat": 39.60552,
+        "lng": 46.39303
+      }
+    },
+    {
+      "id": 137,
+      "regionId": 9,
+      "name": "Հացավան",
+      "coordinates": {
+        "lat": 40.136,
+        "lng": 44.65242
+      }
+    },
+    {
+      "id": 138,
+      "regionId": 9,
+      "name": "Ծղուկ ",
+      "coordinates": {
+        "lat": 39.6683,
+        "lng": 45.85354
+      }
+    },
+    {
+      "id": 139,
+      "regionId": 9,
+      "name": "Լոր",
+      "coordinates": {
+        "lat": 39.41008,
+        "lng": 46.13052
+      }
+    },
+    {
+      "id": 140,
+      "regionId": 9,
+      "name": "Լծեն",
+      "coordinates": {
+        "lat": 39.44618,
+        "lng": 46.15966
+      }
+    },
+    {
+      "id": 141,
+      "regionId": 9,
+      "name": "Բարձրավան",
+      "coordinates": {
+        "lat": 39.39343,
+        "lng": 46.32739
+      }
+    },
+    {
+      "id": 142,
+      "regionId": 9,
+      "name": "Լեհվազ",
+      "coordinates": {
+        "lat": 38.93934,
+        "lng": 46.21483
+      }
+    },
+    {
+      "id": 143,
+      "regionId": 9,
+      "name": "Գուդեմիս",
+      "coordinates": {
+        "lat": 38.93942,
+        "lng": 46.1781
+      }
+    },
+    {
+      "id": 144,
+      "regionId": 9,
+      "name": "Կարճևան",
+      "coordinates": {
+        "lat": 38.8963,
+        "lng": 46.19084
+      }
+    },
+    {
+      "id": 145,
+      "regionId": 9,
+      "name": "Շվանիձոր",
+      "coordinates": {
+        "lat": 38.93452,
+        "lng": 46.37064
+      }
+    },
+    {
+      "id": 146,
+      "regionId": 9,
+      "name": "Տաշտուն",
+      "coordinates": {
+        "lat": 39.06547,
+        "lng": 46.16873
+      }
+    },
+    {
+      "id": 147,
+      "regionId": 10,
+      "name": "Ագարակաձոր",
+      "coordinates": {
+        "lat": 39.73779,
+        "lng": 45.35126
+      }
+    },
+    {
+      "id": 148,
+      "regionId": 10,
+      "name": "Եղեգիս",
+      "coordinates": {
+        "lat": 39.87262,
+        "lng": 45.35752
+      }
+    },
+    {
+      "id": 149,
+      "regionId": 10,
+      "name": "Աղավնաձոր",
+      "coordinates": {
+        "lat": 39.78053,
+        "lng": 45.22656
+      }
+    },
+    {
+      "id": 150,
+      "regionId": 10,
+      "name": "Խաչիկ",
+      "coordinates": {
+        "lat": 39.62392,
+        "lng": 45.20768
+      }
+    },
+    {
+      "id": 151,
+      "regionId": 10,
+      "name": "Շատին",
+      "coordinates": {
+        "lat": 39.83112,
+        "lng": 45.29863
+      }
+    },
+    {
+      "id": 152,
+      "regionId": 10,
+      "name": "Գնդեվազ",
+      "coordinates": {
+        "lat": 39.76048,
+        "lng": 45.62067
+      }
+    },
+    {
+      "id": 153,
+      "regionId": 10,
+      "name": "Խնձորուտ",
+      "coordinates": {
+        "lat": 39.55362,
+        "lng": 45.40555
+      }
+    },
+    {
+      "id": 154,
+      "regionId": 10,
+      "name": "Կարմրաշեն",
+      "coordinates": {
+        "lat": 39.81574,
+        "lng": 45.53202
+      }
+    },
+    {
+      "id": 155,
+      "regionId": 10,
+      "name": "Սարավան",
+      "coordinates": {
+        "lat": 39.72083,
+        "lng": 45.64802
+      }
+    },
+    {
+      "id": 156,
+      "regionId": 10,
+      "name": "Արտավան",
+      "coordinates": {
+        "lat": 39.65768,
+        "lng": 45.61358
+      }
+    },
+    {
+      "id": 157,
+      "regionId": 11,
+      "name": "Ակնաղբյուր",
+      "coordinates": {
+        "lat": 40.96201,
+        "lng": 45.15934
+      }
+    },
+    {
+      "id": 158,
+      "regionId": 11,
+      "name": "Աղքիլիսա",
+      "coordinates": {
+        "lat": 40.87705,
+        "lng": 43.96099
+      }
+    },
+    {
+      "id": 159,
+      "regionId": 11,
+      "name": "Աղքիլիսա",
+      "coordinates": {
+        "lat": 40.87705,
+        "lng": 43.96099
+      }
+    },
+    {
+      "id": 160,
+      "regionId": 11,
+      "name": "Աճարկուտ",
+      "coordinates": {
+        "lat": 41.03582,
+        "lng": 45.08513
+      }
+    },
+    {
+      "id": 161,
+      "regionId": 11,
+      "name": "Այգեհովիտ",
+      "coordinates": {
+        "lat": 40.97625,
+        "lng": 45.25503
+      }
+    },
+    {
+      "id": 162,
+      "regionId": 11,
+      "name": "Թեղուտ",
+      "coordinates": {
+        "lat": 41.1109,
+        "lng": 44.85078
+      }
+    },
+    {
+      "id": 163,
+      "regionId": 11,
+      "name": "Հաղարծին",
+      "coordinates": {
+        "lat": 40.77726,
+        "lng": 44.97355
+      }
+    },
+    {
+      "id": 164,
+      "regionId": 11,
+      "name": "Արճիս",
+      "coordinates": {
+        "lat": 41.16378,
+        "lng": 44.87461
+      }
+    },
+    {
+      "id": 165,
+      "regionId": 11,
+      "name": "Բագրատաշեն",
+      "coordinates": {
+        "lat": 41.24045,
+        "lng": 44.82361
+      }
+    },
+    {
+      "id": 166,
+      "regionId": 11,
+      "name": "Բարեկամավան",
+      "coordinates": {
+        "lat": 41.17173,
+        "lng": 45.11474
+      }
+    },
+    {
+      "id": 167,
+      "regionId": 11,
+      "name": "Բաղանիս",
+      "coordinates": {
+        "lat": 41.11101,
+        "lng": 45.05329
+      }
+    },
+    {
+      "id": 168,
+      "regionId": 11,
+      "name": "Բերդավան",
+      "coordinates": {
+        "lat": 41.2062,
+        "lng": 45
+      }
+    },
+    {
+      "id": 169,
+      "regionId": 11,
+      "name": "Նավուր",
+      "coordinates": {
+        "lat": 40.86827,
+        "lng": 45.33921
+      }
+    },
+    {
+      "id": 170,
+      "regionId": 11,
+      "name": "Իծաքար",
+      "coordinates": {
+        "lat": 40.86835,
+        "lng": 45.31801
+      }
+    },
+    {
+      "id": 171,
+      "regionId": 11,
+      "name": "Չինչին",
+      "coordinates": {
+        "lat": 40.90625,
+        "lng": 45.34947
+      }
+    },
+    {
+      "id": 172,
+      "regionId": 11,
+      "name": "Պառավաքար",
+      "coordinates": {
+        "lat": 40.98309,
+        "lng": 45.36568
+      }
+    },
+    {
+      "id": 173,
+      "regionId": 11,
+      "name": "Վարագավան",
+      "coordinates": {
+        "lat": 40.96276,
+        "lng": 45.35056
+      }
+    }
+  ],
+  "streets": [
+    {
+      "id": 1,
+      "districtsId": 1,
+      "name": "Գրիգոր Զոհրաբի փողոց",
+      "coordinates": {
+        "lat": 40.19272,
+        "lng": 44.45582
+      }
+    },
+    {
+      "id": 2,
+      "districtsId": 1,
+      "name": "Չուխաջյանի փողոց",
+      "coordinates": {
+        "lat": 40.19165,
+        "lng": 44.4575
+      }
+    },
+    {
+      "id": 3,
+      "districtsId": 1,
+      "name": "Սիլիկյան նոր խճուղի",
+      "coordinates": {
+        "lat": 40.20909,
+        "lng": 44.45495
+      }
+    },
+    {
+      "id": 4,
+      "districtsId": 2,
+      "name": "Մարշալ Խուդյակովի փողոց",
+      "coordinates": {
+        "lat": 40.21009,
+        "lng": 44.56466
+      }
+    },
+    {
+      "id": 5,
+      "districtsId": 2,
+      "name": "Դավիթ Մալյանի փողեց",
+      "coordinates": {
+        "lat": 40.20943,
+        "lng": 44.5682
+      }
+    },
+    {
+      "id": 6,
+      "districtsId": 2,
+      "name": "Թամրուչի փողոց",
+      "coordinates": {
+        "lat": 40.21431,
+        "lng": 44.58075
+      }
+    },
+    {
+      "id": 7,
+      "districtsId": 2,
+      "name": "Նվեր Սաֆարյանի փողոց",
+      "coordinates": {
+        "lat": 40.21138,
+        "lng": 44.58118
+      }
+    },
+    {
+      "id": 8,
+      "districtsId": 3,
+      "name": "Կոմիտասի պողոտա",
+      "coordinates": {
+        "lat": 40.20615,
+        "lng": 44.50676
+      }
+    },
+    {
+      "id": 9,
+      "districtsId": 3,
+      "name": "Գրիգոր Արծրունու փողոց",
+      "coordinates": {
+        "lat": 40.20265,
+        "lng": 44.5017
+      }
+    },
+    {
+      "id": 10,
+      "districtsId": 3,
+      "name": "Լեռ Կամսարի փողոց",
+      "coordinates": {
+        "lat": 40.19452,
+        "lng": 44.50495
+      }
+    },
+    {
+      "id": 11,
+      "districtsId": 3,
+      "name": "Անտառային փողոց",
+      "coordinates": {
+        "lat": 40.19349,
+        "lng": 44.50991
+      }
+    },
+    {
+      "id": 12,
+      "districtsId": 4,
+      "name": "Փիրումյանների փողոց",
+      "coordinates": {
+        "lat": 40.22045,
+        "lng": 44.49389
+      }
+    },
+    {
+      "id": 13,
+      "districtsId": 4,
+      "name": "Աղաբաբյան փողոց",
+      "coordinates": {
+        "lat": 40.22253,
+        "lng": 44.48744
+      }
+    },
+    {
+      "id": 14,
+      "districtsId": 4,
+      "name": "Տիգրան Պետրոսյանի փողոց",
+      "coordinates": {
+        "lat": 40.22293,
+        "lng": 44.49588
+      }
+    },
+    {
+      "id": 15,
+      "districtsId": 4,
+      "name": "Դավթաշեն 2-րդ զանգված",
+      "coordinates": {
+        "lat": 40.22476,
+        "lng": 44.49356
+      }
+    },
+    {
+      "id": 16,
+      "districtsId": 5,
+      "name": " Էրեբունի փողոց",
+      "coordinates": {
+        "lat": 40.14176,
+        "lng": 44.5252
+      }
+    },
+    {
+      "id": 17,
+      "districtsId": 5,
+      "name": "Աթոյան փողոց",
+      "coordinates": {
+        "lat": 40.14229,
+        "lng": 44.51777
+      }
+    },
+    {
+      "id": 18,
+      "districtsId": 5,
+      "name": "Սասունցի Դավիթ փողոց",
+      "coordinates": {
+        "lat": 40.15468,
+        "lng": 44.51774
+      }
+    },
+    {
+      "id": 19,
+      "districtsId": 5,
+      "name": "Մուրացանի փողոց",
+      "coordinates": {
+        "lat": 40.14919,
+        "lng": 44.51614
+      }
+    },
+    {
+      "id": 20,
+      "districtsId": 6,
+      "name": "Սիմեոն Երեվանցու փողոց",
+      "coordinates": {
+        "lat": 40.18095,
+        "lng": 44.50072
+      }
+    },
+    {
+      "id": 21,
+      "districtsId": 6,
+      "name": "Ռուսթավելու փողոց",
+      "coordinates": {
+        "lat": 40.18271,
+        "lng": 44.50143
+      }
+    },
+    {
+      "id": 22,
+      "districtsId": 6,
+      "name": "Վերֆելի փողոց",
+      "coordinates": {
+        "lat": 40.17508,
+        "lng": 44.49219
+      }
+    },
+    {
+      "id": 23,
+      "districtsId": 6,
+      "name": "Տարսոնի փողոց",
+      "coordinates": {
+        "lat": 40.17429,
+        "lng": 44.49237
+      }
+    },
+    {
+      "id": 24,
+      "districtsId": 7,
+      "name": "Առնո Բաբաջանյան փողոց",
+      "coordinates": {
+        "lat": 40.16572,
+        "lng": 44.44002
+      }
+    },
+    {
+      "id": 25,
+      "districtsId": 7,
+      "name": "Զորավար Անդրանիկ",
+      "coordinates": {
+        "lat": 40.1718,
+        "lng": 44.44603
+      }
+    },
+    {
+      "id": 26,
+      "districtsId": 7,
+      "name": "Վանթյան փողոց",
+      "coordinates": {
+        "lat": 40.17265,
+        "lng": 44.46156
+      }
+    },
+    {
+      "id": 27,
+      "districtsId": 7,
+      "name": "Արմին Վեգների փողոց",
+      "coordinates": {
+        "lat": 40.17687,
+        "lng": 44.46373
+      }
+    },
+    {
+      "id": 28,
+      "districtsId": 8,
+      "name": "Նանսենի փողոց",
+      "coordinates": {
+        "lat": 40.19852,
+        "lng": 44.56119
+      }
+    },
+    {
+      "id": 29,
+      "districtsId": 8,
+      "name": "Գայի պողոտա",
+      "coordinates": {
+        "lat": 40.20233,
+        "lng": 44.56541
+      }
+    },
+    {
+      "id": 30,
+      "districtsId": 8,
+      "name": "Մոլդովական փողոց",
+      "coordinates": {
+        "lat": 40.19945,
+        "lng": 44.5698
+      }
+    },
+    {
+      "id": 31,
+      "districtsId": 8,
+      "name": "Թոթովենցի փողոց",
+      "coordinates": {
+        "lat": 40.20315,
+        "lng": 44.56899
+      }
+    },
+    {
+      "id": 32,
+      "districtsId": 9,
+      "name": "Սերո Խանզադյանի փողոց",
+      "coordinates": {
+        "lat": 40.19052,
+        "lng": 44.54128
+      }
+    },
+    {
+      "id": 33,
+      "districtsId": 9,
+      "name": "Արմենակ Արմենակյանի փողոց",
+      "coordinates": {
+        "lat": 40.18637,
+        "lng": 44.53558
+      }
+    },
+    {
+      "id": 34,
+      "districtsId": 10,
+      "name": "Նուբարաշենի փողոց",
+      "coordinates": {
+        "lat": 40.08891,
+        "lng": 44.5491
+      }
+    },
+    {
+      "id": 35,
+      "districtsId": 11,
+      "name": "Մայիսի 9-ի փողոց",
+      "coordinates": {
+        "lat": 40.15502,
+        "lng": 44.48876
+      }
+    },
+    {
+      "id": 36,
+      "districtsId": 11,
+      "name": "Գարեգին Նժդեհի փողոց",
+      "coordinates": {
+        "lat": 40.1518,
+        "lng": 44.4937
+      }
+    },
+    {
+      "id": 37,
+      "districtsId": 11,
+      "name": "Թադեվոսյան փողոց",
+      "coordinates": {
+        "lat": 40.14266,
+        "lng": 44.48663
+      }
+    },
+    {
+      "id": 38,
+      "districtsId": 11,
+      "name": "Արշակունյաց պողոտա",
+      "coordinates": {
+        "lat": 40.16418,
+        "lng": 44.50436
+      }
+    },
+    {
+      "id": 39,
+      "districtsId": 12,
+      "name": "Զաքարիա Քանաքեռցի փողոց",
+      "coordinates": {
+        "lat": 40.22146,
+        "lng": 44.5432
+      }
+    },
+    {
+      "id": 40,
+      "districtsId": 12,
+      "name": "Ֆանարջյան փողոց",
+      "coordinates": {
+        "lat": 40.21726,
+        "lng": 44.54309
+      }
+    },
+    {
+      "id": 41,
+      "districtsId": 12,
+      "name": " Դրոյի փողոց",
+      "coordinates": {
+        "lat": 40.20399,
+        "lng": 44.54269
+      }
+    },
+    {
+      "id": 42,
+      "districtsId": 12,
+      "name": " Մինաս Ավետիսյանի փողոց",
+      "coordinates": {
+        "lat": 40.20641,
+        "lng": 44.54557
+      }
+    }
+  ]
+}

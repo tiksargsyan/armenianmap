@@ -1,0 +1,21 @@
+<div class="example-container">
+  <p class="text-center">Ավելացնել նոր գյուղ</p>
+  <mat-form-field>
+    <mat-select placeholder="ընտրել մարզ" [(ngModel)]="data.regionId" required>
+      <mat-option *ngFor="let region of regions" [value]="region.id">{{region.province}}</mat-option>
+    </mat-select>
+  </mat-form-field>
+  <mat-form-field class="example-full-width">
+    <input matInput type="text" placeholder="գյուղի անուն" [(ngModel)]="data.name" required>
+  </mat-form-field>
+  <mat-form-field class="example-full-width">
+    <input matInput type="number" placeholder="կորդինատ lat" [(ngModel)]="data.coordinates.lat" required>
+  </mat-form-field>
+  <mat-form-field class="example-full-width">
+    <input matInput type="number" placeholder="կորդինատ  lng" [(ngModel)]="data.coordinates.lng" required>
+  </mat-form-field>
+  <button class="btn btn-success mr-2" [mat-dialog-close]="data" cdkFocusInitial [disabled]="!data.coordinates.lng">
+    Ավելացնել
+  </button>
+  <button mat-dialog-close class="btn btn-danger">Փակել</button>
+</div>
