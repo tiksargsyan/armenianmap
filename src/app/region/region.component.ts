@@ -57,12 +57,12 @@ export class RegionComponent implements OnInit {
       console.warn(error.message);
     });
     this.regionService.getVillage().subscribe((data) => {
-      this.villages = data;
+      this.villages = Object.values(data);
     }, error => {
       console.warn(error.message);
     });
     this.regionService.getStreets().subscribe((data) => {
-      this.streets = data;
+      this.streets = Object.values(data);
     }, error => {
       console.warn(error.message);
     });
@@ -77,6 +77,7 @@ export class RegionComponent implements OnInit {
     this.selectedVillage = this.villages.filter(el => this.regionId.includes(el.regionId));
     this.selectedDistricts = [];
     this.selectedDistricts = this.districts.filter(el => this.regionId.includes(el.regionId));
+    this.selectedStreet = [];
     this.defaultMarker = this.mapMarkers[this.mapMarkers.length - 1];
     this.zoom = 8;
     if (this.regionId.length <= 0) {
@@ -84,6 +85,7 @@ export class RegionComponent implements OnInit {
       this.cityId = [];
       this.streetId = [];
       this.villageId = [];
+      this.selectedStreet = [];
     }
   }
 
@@ -105,7 +107,7 @@ export class RegionComponent implements OnInit {
     this.zoom = 13;
     this.selectedStreet = [];
     this.selectedStreet = this.streets.filter(el => this.districtsId.includes(el.districtsId));
-    if (this.districtsId.length === 0) {
+    if (this.districtsId.length <= 0) {
       this.streetId = [];
     }
     this.defaultMarker = this.mapMarkers[this.mapMarkers.length - 1];
@@ -133,12 +135,8 @@ export class RegionComponent implements OnInit {
         return;
       }
       this.regionService.postNewVillage(data).subscribe(() => {
-        if (!this.regionId || !this.districtsId) {
-          this.villages.push(data);
-        } else {
-          this.villages.push(data);
-          this.selectedVillage.push(data);
-        }
+        this.villages.push(data);
+        this.selectedVillage = this.villages.filter(el => this.regionId.includes(el.regionId));
       });
     });
   }
@@ -159,12 +157,8 @@ export class RegionComponent implements OnInit {
         return;
       }
       this.regionService.postNewStreet(data).subscribe(() => {
-        if (!this.regionId || !this.districtsId) {
-          this.streets.push(data);
-        } else {
-          this.streets.push(data);
-          this.selectedStreet.push(data);
-        }
+        this.streets.push(data);
+        this.selectedStreet = this.streets.filter(el => this.districtsId.includes(el.districtsId));
       });
     });
   }
